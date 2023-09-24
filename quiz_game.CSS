@@ -1,0 +1,55 @@
+#p1 {
+    width: 300px;
+    font-family: cursive;
+    color: black;
+    background-color: rgb(233, 227, 219);
+    text-align: center;
+}
+
+#p2 {
+    width: 300px;
+    font-family: cursive;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+#Infinity
+{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#loginb
+{
+     background-color: black;
+     color: white;
+     width: 50px;
+     text-align: center;
+}
+
+#un
+{
+    text-align: center;
+}
+
+#player1_name_input
+{
+    text-align: center;
+}
+
+#player2_name_input
+{
+    text-align: center;
+}

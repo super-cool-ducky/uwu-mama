@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Projects And Homework/ADV-C89-student/guess_the_word_game"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "The Math Quiz"
+	}
+}
